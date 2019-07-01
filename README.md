@@ -1,16 +1,14 @@
 # MTC Open Hack
 
-## Microsoft Graph
 TODO: Jeff's links
-
-Graph Explorer: https://developer.microsoft.com/en-us/graph/graph-explorer
 
 https://aka.ms/graphhack
 
-## PowerApps/Flow/Power BI
 TODO: Bart's links
 
-### Power BI
+https://aka.ms/aiadpresentation
+
+## Power BI links
   Dashboard in a Day course/lab: https://assetsprod.microsoft.com/mpn/en-us/diad.zip 
   
   Summary Microsoft Power BI documentation: https://powerbi.microsoft.com/en-us/
